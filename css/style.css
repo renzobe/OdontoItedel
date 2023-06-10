@@ -518,7 +518,7 @@ span.glyphicon.glyphicon-search {
 	color: #fff;
 	font-size: 15px;
 }
-span.d1.glyphicon.glyphicon-leaf,span.d2.glyphicon.glyphicon-pushpin,span.d3.glyphicon.glyphicon-tree-deciduous,span.d4.glyphicon.glyphicon-apple,span.d5.glyphicon.glyphicon-inbox,span.d6.glyphicon.glyphicon-star-empty {
+.glyphicon {
 	color: #fff;
 	font-size: 50px;
 }
