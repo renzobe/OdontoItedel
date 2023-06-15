@@ -478,6 +478,7 @@ button.btn.btn-default {
 .service-section {
 	padding: 4em 0 6em;
     background-color: #146eb4;
+	/* background:#79d2cf; */
 }
 .service-section-head h3 {
 	font-size: 2.8em;
@@ -554,7 +555,7 @@ span.glyphicon.glyphicon-search {
 a.news-post {
     font-weight: 600;
     margin:.5em 0 0.3em 0;
-    font-size: 1.2em;
+    font-size: 1.5em;
     text-transform: capitalize;
     line-height: 1.5em;
 	color: #527994;
@@ -582,7 +583,7 @@ a.news-post {
 }
 .news-section-grid a {
 	text-decoration:none;
-	color:#1c9fda;
+	color:white;
 }
 .date {
     position: absolute;
