@@ -238,7 +238,7 @@ button.btn.btn-default {
 	text-decoration: none;
 }
 .more a:hover{
-	color:#ff9900;
+	color:#4ab2a8;
 	text-decoration:none;
 	background: url(../images/1-.png) no-repeat 7.5em .43em;
 	display: block;
@@ -417,7 +417,7 @@ button.btn.btn-default {
 /*-- //banner --*/
 .services h2, .news h2, .contact-main h2, .gallery h2,.blog h2 {
     font-size: 2.5em;
-    color: #ff9900;
+    color: #4ab2a8;
     margin: 0 0 .5em;
     font-weight: 300;
     text-align: center;
@@ -541,7 +541,7 @@ span.glyphicon.glyphicon-search {
 }
 .news-section-head h3 {
 	font-size: 2.8em;
-    color: #ff9900;
+    color: #4ab2a8;
     font-weight: 300;
     text-align: center;
     font-family: 'Raleway', sans-serif;
@@ -608,7 +608,7 @@ a.more-news {
 	float: left;
 }
 a.more-news:hover {
-    color: #ff9900;
+    color: #4ab2a8;
 }
 /*-- //news --*/
 /*-- testimonials --*/
@@ -1012,7 +1012,7 @@ p.footer-class a:hover{
   border: none;
   outline: none;
   color: #fff;
-  background: #ff9900;
+  background: #4ab2a8;
   width: 49%;
   padding: 15px 0px;
   font-size: 18px;
@@ -1036,7 +1036,7 @@ p.footer-class a:hover{
 border: none;
   outline: none;
   color: #fff;
-  background: #ff9900;
+  background: #4ab2a8;
   width: 49%;
   padding: 15px 0px;
   font-size: 18px;
@@ -1145,11 +1145,11 @@ ol.breadcrumb li a {
   font-size: 2em;
   font-weight: 600;
     font-family: 'Raleway', sans-serif;
-  color:#ff9900;
+  color:#4ab2a8;
   margin-bottom: 1em;
 }
 .blog h4 a{
-	color:#ff9900;
+	color:#4ab2a8;
 }
 .blog  h4 a:hover {
 	color:#146eb4;
@@ -1162,7 +1162,7 @@ ol.breadcrumb li a {
 	color: #555555;
 }
 .blog-left p a {
-	color:#ff9900;
+	color:#4ab2a8;
 }
 .blog-left p a:hover{
 	color: #146eb4;
@@ -1325,11 +1325,11 @@ a.list-group-item:hover {
   font-size: 15px;
 }
 .cmnt-icon-right p a:hover{
-	color:#ff9900;
+	color:#4ab2a8;
 }
 h2.type {
 	font-size: 2.5em;
-	color: #ff9900;
+	color: #4ab2a8;
 	margin: 0 0 .5em;
 	font-weight: 300;
 	text-align: center;
@@ -1373,7 +1373,7 @@ a.list-group-item:hover, a.list-group-item:focus {
 .single-page h4 {
   font-size: 2em;
   font-weight: 600;
-  color: #ff9900;
+  color: #4ab2a8;
   margin-bottom: 1em;
   font-family:'Raleway', sans-serif;
 }
@@ -1421,7 +1421,7 @@ a.list-group-item:hover, a.list-group-item:focus {
 	font-size: 14px;
 }
 .comment-icons ul li span {
-  color: #ff9900;
+  color: #4ab2a8;
   font-size: 15px;
   margin-right: 6px;
     vertical-align: text-top;
@@ -1494,7 +1494,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
   color: #727272;
 }
 .admin-text-right span a {
-	color:#ff9900;
+	color:#4ab2a8;
 	text-decoration:none;
 }
 .admin-text-right span a:hover{
@@ -1549,7 +1549,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
   margin-right: 1em;
 }
 .response-text-right ul li a{
-    color:#ff9900;
+    color:#4ab2a8;
   font-size: 14px;
   font-weight: 400;
 }
@@ -1609,7 +1609,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
 	padding: 13px 15px;
 }
 .coment-form input[type="submit"] {
-  background: #ff9900;
+  background: #4ab2a8;
   border: 1px solid #f4f4f4;
   padding: .8em 0;
   width: 100%;
@@ -1664,7 +1664,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
   left: 0;
   right: 0;
   bottom: 0;
-  background:#ff9900;
+  background:#4ab2a8;
   -webkit-transform: scale(1);
   transform: scale(1);
   -webkit-transition-property: transform;
