@@ -43,7 +43,7 @@ body a:hover{
 }
 /*-- header --*/
 .header{
-	background:#79d2cf;
+	background:#75BFB2;
 	padding:1em 0;
 }
 .header-left{
@@ -131,7 +131,7 @@ body a:hover{
   left: 0;
   right: 0;
   bottom: 0;
-  background: #235f4e;
+  background:#7F58A6;
   -webkit-transform: scaleY(0);
   transform: scaleY(0);
   -webkit-transform-origin: 50% 100%;
@@ -218,7 +218,7 @@ button.btn.btn-default {
 }
 .banner-nav ul li.cap a{
 	text-decoration:none;
-	background-color:#355a57;
+	background-color:#8B56BF;
 	color:#fff;
 }
 .banner-nav ul li a:hover{
@@ -434,7 +434,7 @@ button.btn.btn-default {
 }
 .welcome-head h2 {
     font-size: 2.8em;
-    color: #4ab2a8;
+    color:#9f7cc2;
     font-weight: 300;
     text-align: center;
 	margin: 0 0 .5em;
@@ -482,8 +482,8 @@ button.btn.btn-default {
 }
 .service-section {
 	padding: 4em 0 6em;
-    background-color: #146eb4;
-	/* background:#79d2cf; */
+    background-color:#9f7cc2;
+
 }
 .service-section-head h3 {
 	font-size: 2.8em;
@@ -1030,7 +1030,7 @@ p.footer-class a:hover{
   -ms-border-radius: 0.3em;
 }
 .contact-textarea input[type="submit"]:hover {
-	background:#146eb4;
+	background:#9f7cc2;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
@@ -1088,7 +1088,7 @@ p.sint{
 	background-color:#907C40;
 }
 .professional{
-	background:#146eb4;
+	background:#9f7cc2;
 	padding:4em 0;
 }
 .professional h3{
@@ -1150,11 +1150,11 @@ ol.breadcrumb li a {
   font-size: 2em;
   font-weight: 600;
     font-family: 'Raleway', sans-serif;
-  color:#4ab2a8;
+  color: #7660A6;
   margin-bottom: 1em;
 }
 .blog h4 a{
-	color:#4ab2a8;
+	color:#7660A6;
 }
 .blog  h4 a:hover {
 	color:#146eb4;
@@ -1334,7 +1334,7 @@ a.list-group-item:hover {
 }
 h2.type {
 	font-size: 2.5em;
-	color: #4ab2a8;
+	color: #9f7cc2;
 	margin: 0 0 .5em;
 	font-weight: 300;
 	text-align: center;
